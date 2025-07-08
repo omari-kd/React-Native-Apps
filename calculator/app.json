@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "calculator",
+    "slug": "calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/calcicon.png.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.omaridev.calcmaster"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/calcicon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.omaridev.calcmaster"
+    },
+    "web": {
+      "favicon": "./assets/calcicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "433b92e7-10ca-42f4-82f5-0fa68bcf65b5"
+      }
+    },
+    "owner": "edomari"
+  }
+}
