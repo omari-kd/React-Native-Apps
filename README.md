@@ -1,6 +1,6 @@
 # React-Native-Apps (Powered by Expo)
 
-A curated collection of **Expo-built React Native applications** demonstrating mobile development skills using modern tools, TypeScript/JavaScript, and cross-platform workflows.
+A curated collection of **Expo-built React Native applications** demonstrating mobile development skills using modern tools, TypeScript/JavaScript and cross-platform workflows.
 
 ## Projects Overview
 
